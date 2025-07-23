@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const CONFIG = require('./configuracion');
+const CONFIG = require('./configuracion.js');
 
 module.exports={
     conection : null, 
